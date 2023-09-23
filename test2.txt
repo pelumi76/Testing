@@ -2,4 +2,9 @@ I am practicing again today/. H
 
 Here is my chapter 2
 
+<<<<<<< HEAD
 Chapter 2 has started, then I am making a new material for the repository and this is it. 
+=======
+
+I am updating the btanche now. sp this is oit
+>>>>>>> testing-case-2

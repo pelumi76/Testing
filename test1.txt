@@ -1,3 +1,8 @@
 I am practicing today
 
+<<<<<<< HEAD
 Adding a new branch to work on the code. This is so much fun
+=======
+
+first branch is updated. 
+>>>>>>> testing-case-2
